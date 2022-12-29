@@ -1,0 +1,60 @@
+img{
+    width: 100%;
+
+}
+h1{
+    text-align: center;
+    color: white;
+
+}
+body{
+background-image: url("fon.jpeg");
+background-size: cover;
+text-align: center;
+background-attachment: fixed;
+}
+div{
+    background-color: white;
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 0 0 20px black ;
+}
+a{
+    background-color: aqua;
+    font-family: 'Comfortaa', cursive;
+    display: inline-block;
+    margin-bottom: 20px;
+margin-top: 20px;
+padding: 10px;
+border-radius: 50px;
+color: yellowgreen;
+text-decoration: none;
+}
+a:hover{
+    background-color: blue
+}
+h2{
+    font-family: 'Comfortaa', cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
