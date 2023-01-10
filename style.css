@@ -5,8 +5,9 @@ img{
 h1{
     text-align: center;
     color: white;
-
+    font-family: 'Comfortaa', cursive;
 }
+
 body{
 background-image: url("fon.jpeg");
 background-size: cover;
@@ -33,7 +34,7 @@ color: yellowgreen;
 text-decoration: none;
 }
 a:hover{
-    background-color: blue
+    background-color: yellow;
 }
 h2{
     font-family: 'Comfortaa', cursive;
